@@ -1,4 +1,4 @@
-# Fake-news-classification-with-LSTM
+# Fake News Classification with LSTM
 This program aims to analyze data, perform Exploratory Data Analysis (EDA), and classify news articles as fake or real using an LSTM model. By leveraging the power of deep learning and natural language processing (NLP), the project provides an effective solution for detecting misinformation in the form of fake news.
 
 ## Table of Contents
