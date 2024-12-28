@@ -54,14 +54,17 @@ The preprocessing steps applied to the dataset include:
 
 The project leverages the following technologies:
 
-- **Python Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
-- **Machine Learning Models**:
-  - Random Forest
-  - Decision Tree
-  - Logistic Regression
-  - K Nearest Neighbors (KNN)
+- **Programming Languages:** Python
+- **Libraries and Frameworks:**
+   - Data Manipulation: Pandas, NumPy
+   - Visualization: Matplotlib, Seaborn
+   - Natural Language Processing: NLTK
+   - Machine Learning: Scikit-learn
+   - Deep Learning: TensorFlow, Keras
 - **Visualization**: Data visualizations for exploratory data analysis (EDA).
 - **Jupyter Notebook**: Development and analysis environment.
+
+These tools provide robust capabilities for data analysis, visualization, and deep learning model development, ensuring a seamless workflow from data preparation to model evaluation.
 
 ## Workflow
 
